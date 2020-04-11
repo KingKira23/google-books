@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    background-color: gray;
+    color: black;
+    padding-bottom: 3rem;
+    margin: 0;
+    font-family: fantasy;
+}
+.nav {
+    background-color: #1B264F;
+    padding: 10px;
+    font-size: x-large;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: -2%;
+}
